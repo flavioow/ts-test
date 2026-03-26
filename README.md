@@ -4,6 +4,6 @@ Micro projeto para guardar testes rápidos em TypeScript e rodar arquivos indivi
 
 ## Uso
 
-1. Arquivos ficam em `src`.
-2. Rodar um arquivo: `npm start <nome-do-arquivo>`
+1. Arquivos ficam em `src/` organizados por tema.
+2. Rodar um arquivo: `npm start -- <pasta>/<nome-do-arquivo>`
 3. Lint/format em tudo: `npm run lint`
